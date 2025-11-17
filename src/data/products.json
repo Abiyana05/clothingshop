@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Essential Cotton Tee",
+    "category": "men",
+    "price": 29.99,
+    "image": "/src/assets/product-tshirt.jpg",
+    "description": "Premium cotton t-shirt with a modern fit. Perfect for everyday wear.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Black", "White", "Gray"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Tailored Blazer",
+    "category": "women",
+    "price": 159.99,
+    "image": "/src/assets/product-blazer.jpg",
+    "description": "Elegant blazer with a tailored fit. Perfect for the office or special occasions.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Beige", "Navy", "Black"],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Classic Denim",
+    "category": "men",
+    "price": 89.99,
+    "image": "/src/assets/product-jeans.jpg",
+    "description": "Timeless denim jeans with a comfortable straight fit.",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["Blue", "Black", "Light Blue"],
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Summer Dress",
+    "category": "women",
+    "price": 79.99,
+    "image": "/src/assets/product-dress.jpg",
+    "description": "Flowing dress perfect for summer days and special events.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["White", "Pink", "Blue"],
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Wool Sweater",
+    "category": "men",
+    "price": 69.99,
+    "image": "/src/assets/product-sweater.jpg",
+    "description": "Cozy wool sweater for cold weather. Soft and comfortable.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Gray", "Navy", "Burgundy"],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Leather Jacket",
+    "category": "women",
+    "price": 249.99,
+    "image": "/src/assets/product-jacket.jpg",
+    "description": "Premium leather jacket with a modern edge. A wardrobe essential.",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Black", "Brown"],
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "Casual Shirt",
+    "category": "men",
+    "price": 49.99,
+    "image": "/src/assets/product-tshirt.jpg",
+    "description": "Comfortable casual shirt for weekend wear.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Blue", "Gray"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Knit Cardigan",
+    "category": "women",
+    "price": 89.99,
+    "image": "/src/assets/product-sweater.jpg",
+    "description": "Soft knit cardigan perfect for layering.",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Beige", "Gray", "Black"],
+    "featured": false
+  }
+]
